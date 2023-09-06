@@ -1,4 +1,0 @@
-Name:S.Naveen Nishal
-Skills:Python,Azure,Java,C/C++,Html,CSS
-Email:naveennishalsinguru@gmail.com
-
